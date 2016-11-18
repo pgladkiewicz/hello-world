@@ -1,2 +1,4 @@
 # hello-world
-Starting things out there
+
+Hi there!
+Here and now I am starting my journey into programming and becoming game developer.
